@@ -1,0 +1,6 @@
+ id |       email        |  name   |   surname   |  password  |         createdAt          |         updatedAt          
+----+--------------------+---------+-------------+------------+----------------------------+----------------------------
+  1 | nicolas@correo.com | nicolas | enriquez    | password   | 2021-04-11 05:48:10.801-03 | 2021-04-11 05:48:10.801-03
+  2 | hippo@correo.com   | hippos  | macanahochi | matiflores | 2021-04-11 09:31:00.091-03 | 2021-04-11 09:31:00.091-03
+(2 filas)
+
